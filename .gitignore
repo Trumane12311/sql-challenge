@@ -1,7 +1,7 @@
 *.ss~
 *.ss#*
 .#*.ss
-
+config.py
 *.scm~
 *.scm#*
 .#*.scm
